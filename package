@@ -5,7 +5,7 @@
 	"main", "try-bots.js",
 	"author": jihadtechnology",
 	"scripts": {
-	     "start: "node node.js"
+	     "start: "node bot.js"
 	},
 	"dependencies": {
       "discord.js" : "11.2.1"
