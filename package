@@ -2,7 +2,7 @@
 	"name": simple-bot",
 	"version": "1.0.0",
 	"description": "This is a simple test and exeperiment bot",
-	"main", "zus-bot.js",
+	"main", "try-bots.js",
 	"author": jihadtechnology",
 	"scripts": {
 	     "start: "node node.js"
