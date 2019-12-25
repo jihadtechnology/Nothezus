@@ -1,0 +1,13 @@
+{
+	"name": simple-bot",
+	"version": "1.0.0",
+	"description": "This is a simple test and exeperiment bot",
+	"main", "Nothezus.js",
+	"author": jihadtechnology",
+	"scripts": {
+	     "start: "node node.js"
+	},
+	"dependencies": {
+      "discord.js" : "11.2.1"
+      }
+     }
